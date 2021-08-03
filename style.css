@@ -1,0 +1,53 @@
+#buscar{
+    border-radius: 60px;
+}
+.spin{
+    margin-top: 25%;
+    display: none;
+    
+}
+.div_menu{
+    text-align: right;
+    outline: none;
+    text-decoration-style: none;
+}
+#slides{
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment:local;
+    background-position:center;
+}
+#card_apresent{
+    margin: 20px;
+    transition: 0.5s;
+}
+#card_apresent:hover{
+    transform: scale(1.2);
+}
+#login p a{
+    text-decoration: none;
+    outline: none;
+    color: green;
+}
+#login p a:hover{
+    color: black;
+}
+
+.imagem1{
+    height: 450px;
+    width: 300px;
+}
+
+.imagem2{
+    height: 450px;
+    width: 450px;
+}
+.imagem3{
+    height: 450px;
+    width: 450px;
+}
+#alerta{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
